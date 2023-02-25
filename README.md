@@ -4,9 +4,8 @@ Edit the tags of an mp3 file
 Dependencies:
   mutagen (you can install it with 'pip install mutagen')
 
-usage: main.py [-h] [-t TITLE] [-ar ARTIST] [-al ALBUM] [-i IMAGE] filename
-
-Modify properties of an mp3 file
+Command:
+pyhon3 main.py [-h] [-t TITLE] [-ar ARTIST] [-al ALBUM] [-i IMAGE] filename
 
 positional arguments:
   filename              Audio to be modified
